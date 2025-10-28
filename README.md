@@ -267,8 +267,8 @@ By using this callback, on every epoch_change, the inference procedure can be ca
 <img src="./projects/TensorFlowFlexUNet/MVTEC-CAPSULE/asset/epoch_change_infer_at_end.png" width="1024" height="auto"><br>
 <br>
 
-In this experiment, the training process was stopped at epoch 49 by EarlyStopping Callback.<br><br>
-<img src="./projects/TensorFlowFlexUNet/MVTEC-CAPSULE/asset/train_console_output_at_epoch49.png" width="720" height="auto"><br>
+In this experiment, the training process was terminated at epoch 50.<br><br>
+<img src="./projects/TensorFlowFlexUNet/MVTEC-CAPSULE/asset/train_console_output_at_epoch50.png" width="720" height="auto"><br>
 <br>
 
 <a href="./projects/TensorFlowFlexUNet/MVTEC-CAPSULE/eval/train_metrics.csv">train_metrics.csv</a><br>
@@ -294,7 +294,7 @@ python ../../../src/TensorFlowFlexUNetEvaluator.py ./train_eval_infer.config
 </pre>
 
 Evaluation console output:<br>
-<img src="./projects/TensorFlowFlexUNet/MVTEC-CAPSULE/asset/evaluate_console_output_at_epoch49.png" width="720" height="auto">
+<img src="./projects/TensorFlowFlexUNet/MVTEC-CAPSULE/asset/evaluate_console_output_at_epoch50.png" width="720" height="auto">
 <br><br>Image-Segmentation-MVTEC-CAPSULE
 
 <a href="./projects/TensorFlowFlexUNet/MVTEC-CAPSULE/evaluation.csv">evaluation.csv</a><br>
