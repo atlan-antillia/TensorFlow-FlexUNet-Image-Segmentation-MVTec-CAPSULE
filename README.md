@@ -17,7 +17,7 @@ Augmented-MVTEC-CAPSULE-ImageMask-Dataset.zip</a> with colorized masks
 <br>
 <b>Data Augmentation Strategy</b><br>
 To address the limited size of images and masks of <b>capsule</b> subset of the MVTec dataset, 
-we used our offline augmentation tool <a href="https://github.com/sarah-antillia/ImageMask-Dataset-Offline-Augmentation-Tool"> 
+we used our offline augmentation tools <a href="https://github.com/sarah-antillia/ImageMask-Dataset-Offline-Augmentation-Tool"> 
 ImageMask-Dataset-Offline-Augmentation-Tool</a> and 
 <a href="https://github.com/sarah-antillia/Barrel-Image-Distortion-Tool">Barrel-Image-Distortion-Tool</a> 
 to augment the subset.
