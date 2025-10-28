@@ -302,8 +302,8 @@ Evaluation console output:<br>
 The loss (categorical_crossentropy) to this MVTEC-CAPSULE/test was very low, and dice_coef_multiclass very high as shown below.
 <br>
 <pre>
-categorical_crossentropy,0.0083
-dice_coef_multiclass,0.9959
+categorical_crossentropy,0.0053
+dice_coef_multiclass,0.9975
 </pre>
 <br>
 <h3>
